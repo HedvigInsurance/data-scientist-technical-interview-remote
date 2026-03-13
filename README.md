@@ -10,7 +10,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone git@github.com:HedvigInsurance/data-scientist-technical-interview-remote.git
+git clone https://github.com/HedvigInsurance/data-scientist-technical-interview-remote.git
 cd data-scientist-technical-interview-remote
 ```
 
